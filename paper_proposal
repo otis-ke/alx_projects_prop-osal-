@@ -1,0 +1,53 @@
+https://docs.google.com/document/d/1YHYl59ew-m2n0AGqGcETZgKEX8lfvBmCrgsr3E_ACr0/edit?usp=sharing
+
+
+
+Project Proposal Document: Link to Google Document
+
+Task 1: Project name and tag line
+
+Project Name: Portfolio
+Tagline: Showcasing My Skills and Achievements Through a Dynamic Online Portfolio
+Task 2: Team Members
+In the "Team" section:
+
+Team Members:
+
+Vincent Otis 
+Maryann Mweru Wambui 
+Task 3: Technologies
+In the "Technologies" section:
+
+Technologies:
+Frontend: React, HTML, CSS
+Backend: Node.js, Express
+Database: MongoDB
+Hosting: Heroku
+For frontend technologies, considered alternatives like Vue.js and Angular, but chose React for its large community and component reusability.
+Task 4: Challenge statement
+In the "Challenge" section:
+
+Problem: The Portfolio project aims to provide a platform for me to showcase my skills, projects, and achievements in a visually appealing and organized manner.
+Not Solved: The project will not offer real-time collaboration features.
+Beneficiaries: The portfolio will help potential employers, clients, and collaborators to understand my capabilities.
+Locale: The project's relevance is not tied to a specific locale; it's accessible globally.
+Task 5: Risks
+In the "Risks" section:
+
+Technical Risk: Integrating complex animations might impact page load times. Solution: Optimize animations and use lazy loading.
+Non-Technical Risk: Delay in design iterations. Strategy: Frequent design check-ins and clear communication within the team.
+Task 6: Infrastructure
+In the "Infrastructure" section:
+
+Branching and Merging: Following GitHub flow for branching and merging to ensure code quality and collaboration.
+Deployment: Using Heroku for seamless deployment and automatic updates.
+Data Population: Populating the portfolio with project data through a CMS (Content Management System).
+Testing: Utilizing Jest for unit testing and Cypress for end-to-end testing.
+Task 7: Existing Solutions
+In the "Existing Solutions" section:
+
+Similar Solutions: Behance, Dribbble, and personal websites of professionals.
+Comparison: Unlike Behance and Dribbble, the portfolio offers detailed project descriptions and focuses on personal branding.
+Chosen Specification: Reimplementing a personal portfolio tailored to my skills and achievements, addressing the limitations of existing platforms.
+
+ 
