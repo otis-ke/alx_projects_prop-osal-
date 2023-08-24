@@ -1,1 +1,40 @@
 Build your portfolio project (Week 1): Making Progress
+
+===================Challenges:======================
+
+
+Unearthed Project Challenges:-----------
+ During our research, we didn't anticipate the complexity of integrating real-time data updates into our maze project. Handling dynamic changes to the maze layout while ensuring a smooth user experience has posed unexpected challenges.
+
+===========================Adapting to Challenges:==========================
+ To address these challenges, we've had to revisit our architecture and consider utilizing advanced state management techniques in our front-end to handle real-time updates. Additionally, we're exploring optimized algorithms for maze generation to maintain performance.
+
+=======================Non-Technical Challenges:=========================
+
+ We encountered unexpected challenges in coordinating our schedules due to different time zones. This led to occasional communication delays and required us to adjust our meeting times for effective collaboration.
+
+========Collaboration/Communication:=========================
+We are working as a team, and we've had both successes and challenges with collaboration:
+
+===================================Challenges:================== 
+Coordinating our work across different time zones has proven to be a challenge. Additionally, clarifying integration points and responsibilities for each team member required more detailed discussions than initially expected.
+
+
+==========================Successes: =============================
+
+Despite the challenges, we've maintained open communication through daily stand-up meetings and consistent use of collaboration tools like Slack and Trello. These tools have helped us track tasks and updates efficiently.
+
+
+=======================Project Updates:=================
+We are making a few changes to our portfolio project's deliverables:
+
+We are enhancing our user interface to provide a more intuitive experience for users interacting with the maze.
+We are refining the algorithm for maze generation to ensure diverse and engaging maze layouts.
+Progress:
+
+=====================Progress Rating: 7/10==============
+Measuring Progress: We are measuring progress based on the completion of key milestones outlined in our project plan. We've successfully implemented the basic maze generation algorithm and integrated the front-end with the back-end to display the maze.
+Rating Explanation: We've made significant progress in laying the foundation of our project, but challenges with real-time updates have slightly slowed us down. Despite that, we are confident in our ability to address these challenges and make up for lost time in the upcoming week.
+
+================Project Completion Assessment:========================
+Based on our current progress, we believe our project will be completed on time as specified in our Project Proposal and MVP definition. While we faced unexpected challenges, our proactive approach to addressing them gives us confidence that we can meet the project deadline.
