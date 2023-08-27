@@ -1,4 +1,4 @@
-Project Proposal: Building an E-Commerce Web App
+Project Proposal: portfolio website
 
 Project Overview:
 The goal of this project is to create a fully functional and user-friendly E-Commerce web application for an online shop. The web app will provide customers with a platform to browse products, add them to their carts, proceed to checkout, and make purchases. The admin will have access to an admin panel to manage products, orders, customers, and other essential aspects of the shop.
